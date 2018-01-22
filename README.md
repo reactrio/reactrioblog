@@ -1,3 +1,22 @@
+# Site da comunidade React Rio
+
+## Executando local:
+
+```
+yarn global add gatsby-cli
+git clone https://github.com/reactrio/reactrioblog
+cd reactrioblog
+yarn run dev
+```
+
+
+
+This is a basic starter package for
+[GatsbyJS](https://github.com/gatsbyjs/gatsby). I found myself doing the same
+things over and over again when starting a new gatsby project, hence I figured
+I should created myself a starter so that I don't have to start from scratch
+every single time. Maybe this starter can be useful to some of you.
+
 # gatsby-starter-gatsbythemes
 
 This is a basic starter package for
