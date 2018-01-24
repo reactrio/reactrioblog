@@ -6,7 +6,7 @@
 yarn global add gatsby-cli
 git clone https://github.com/reactrio/reactrioblog
 cd reactrioblog
-yarn run dev
+yarn install && yarn run dev
 ```
 
 
